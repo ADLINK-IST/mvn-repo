@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.aicas</groupId>
+    <artifactId>aicas-demo-types_2.10</artifactId>
+    <packaging>jar</packaging>
+    <description>aicas-demo-types</description>
+    <url>http://prismtech.com</url>
+    <version>0.1.0-SNAPSHOT</version>
+    <name>aicas-demo-types</name>
+    <organization>
+        <name>com.aicas</name>
+        <url>http://prismtech.com</url>
+    </organization>
+    <dependencies>
+        <dependency>
+            <groupId>org.scala-lang</groupId>
+            <artifactId>scala-library</artifactId>
+            <version>2.10.6</version>
+        </dependency>
+        <dependency>
+            <groupId>com.prismtech.cafe</groupId>
+            <artifactId>cafe</artifactId>
+            <version>2.2.1-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+    <repositories>
+        <repository>
+            <id>VortexSnapshotRepo</id>
+            <name>Vortex Snapshot Repo</name>
+            <url>https://dl.dropboxusercontent.com/u/19238968/devel/mvn-repo/vortex/</url>
+            <layout>default</layout>
+        </repository>
+    </repositories>
+</project>
