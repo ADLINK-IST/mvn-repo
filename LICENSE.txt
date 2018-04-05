@@ -1,19 +1,20 @@
                  SOFTWARE LICENSE AGREEMENT
 
 This license agreement ('Agreement') is a legal agreement between
-you, a single corporate entity ('Licensee') and the PrismTech
-Group Limited company with which your purchase order is placed and
-accepted ('Licensor'), for use of Licensor's (and / or its
-affiliates) and / or its licensor's proprietary software products,
-which include any computer software, printed materials, "online"
-or electronic documentation and any upgrades or modifications
-thereto ("the Software").  By placing a purchase order for the
-Software, installing, copying, or otherwise using the Software,
-Licensee agrees to be bound by the terms and conditions of this
-Agreement. IF LICENSEE DOES NOT AGREE TO THE TERMS AND CONDITIONS
-OF THIS AGREEMENT THEN DO NOT INSTALL COPY OR USE THE SOFTWARE and
-either immediately destroy the Software or return it within 15
-days of receipt to the place of purchase in exchange for a full
+you, a single corporate entity ('Licensee') and ADLINK Technology
+Limited or its affiliated company with which your purchase order
+is placed and accepted ('Licensor'), for use of Licensor's
+(and / or its affiliates) and / or its licensor's proprietary
+software products,which include any computer software, printed
+materials, "online" or electronic documentation and any upgrades
+or modifications thereto ("the Software").
+By placing a purchase order for the Software, installing,
+copying, or otherwise using the Software, Licensee agrees to be
+bound by the terms and conditions of this Agreement.
+<<IF LICENSEE DOES NOT AGREE TO THE TERMS AND CONDITIONS
+OF THIS AGREEMENT THEN DO NOT INSTALL COPY OR USE THE SOFTWARE>>
+and either immediately destroy the Software or return it within
+15 days of receipt to the place of purchase in exchange for a full
 refund.  Clauses 3 and 4 of this Agreement are not applicable to
 Licensee, if Licensee has not purchased the Software license(s)
 directly from Licensor, in which event use of the Software shall
@@ -36,12 +37,6 @@ OTHER SPECIAL OR PUNITIVE DAMAGES WHATSOEVER, WHETHER IN CONTRACT,
 TORT, (INCLUDING NEGLIGENCE, STRICT LIABILITY AND ALL OTHERS),
 WARRANTY, INDEMNITY OR UNDER STATUTE, EVEN IF LICENSOR HAS BEEN
 ADVISED OF THE LIKELIHOOD OF SAME.
-
-OpenSplice DDS Community Edition also includes software from Sun
-Microsystems. This software is related to the IDL compiler. The
-Sun Microsystems software may also be freely distributed without
-fees and is subject to the respective license terms set forth
-within the Software.
 
 The following terms and conditions of this Agreement apply to the
 Software but do not apply to any OS Software that may be supplied
@@ -91,7 +86,7 @@ using the Software at any given time must be covered by a Single
 User Development License. Licenses are non-transferable between
 computer systems and users;
 
-1.4.2	Project Unlimited User Development License – a multi user
+1.4.2	Project Unlimited User Development License - a multi user
 license permitting any number of persons assigned to a specified
 project, to use the Software for development purposes only, to
 develop and/or test Licensee applications on a single self
@@ -99,7 +94,7 @@ contained computer hardware system, on one operating system
 platform only. The term "use" comprises designing, developing,
 testing, or maintaining Licensee application software source code
 which either directly or indirectly invokes the Application
-Programming Interfaces (“APIs”) of the Software. The Software
+Programming Interfaces ("APIs") of the Software. The Software
 shall not be used for deploying a particular application created
 with the Software in an production environment, for which purposes
 a Deployment License is required. Licenses are non-transferable
@@ -268,9 +263,9 @@ provided and return it to Licensor in exchange for a full refund.
 The license under this Agreement commences upon delivery of the
 Software to Licensee or if a copy of the Software is already in
 possession of Licensee under the terms of a prior evaluation
-license, upon issue of Licensor’s order acknowledgment and shall
+license, upon issue of Licensor's order acknowledgment and shall
 continue for the term specified in the particular transaction
-between us, as confirmed in Licensor’s order acknowledgement,
+between us, as confirmed in Licensor's order acknowledgement,
 unless terminated sooner in accordance with this Agreement.
 
 6   Warranty and Liability
@@ -467,22 +462,23 @@ this Agreement.
 
 15 General
 
-15.1    If this Agreement is entered into with a PrismTech Group
-Limited company located in the United States of America, then this
-Agreement shall be governed by and construed in accordance with
-the substantive laws of the Commonwealth of Massachusetts, without
-giving effect to the principles of conflict or choice of law of
-such Commonwealth. If this Agreement is entered into with a
-PrismTech Group Limited company located in any other jurisdiction
-than the United States of America, then this Agreement: (i) shall
-be governed by and construed in accordance with the laws of
-England and all disputes arising in connection with this Agreement
-shall be subject to the non-exclusive jurisdiction of the English
-courts and (ii) is enforceable by the original parties to it and
-by their successors in title and permitted assignees. No term of
-this Agreement is enforceable under the Contracts (Rights of Third
-Parties) Act 1999 by a person who is not a party to this
-Agreement.  The original of this Agreement has been written in
+15.1    If this Agreement is entered into with an ADLINK Technology
+Limited affiliated company located in the United States of America,
+then this Agreement shall be governed by and construed in
+accordance with the substantive laws of the Commonwealth of
+Massachusetts, without giving effect to the principles of conflict
+or choice of law of such Commonwealth. If this Agreement is
+entered into with an ADLINK Technology Limited affiliated company
+located in any other jurisdiction than the United States of
+America, then this Agreement: (i) shall be governed by and
+construed in accordance with the laws of England and all disputes
+arising in connection with this Agreement shall be subject to the
+non-exclusive jurisdiction of the English courts and (ii) is
+enforceable by the original parties to it and by their successors
+in title and permitted assignees. No term of this Agreement is
+enforceable under the Contracts (Rights of Third Parties) Act 1999
+by a person who is not a party to this Agreement.
+The original of this Agreement has been written in
 English.  The parties hereto waive any statute, law, or regulation
 that might provide an alternative law or forum or to have this
 Agreement written in any language other than English.
