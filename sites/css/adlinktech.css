@@ -206,7 +206,7 @@ span.required {
 }
 
 .hide,
-.from-prismtech {
+.from-adlinktech {
     display: none;
     visibility: hidden;
 }
@@ -405,9 +405,9 @@ body.two-sidebars #content {
 .site-name { display: block; }
 
 .site-name a {
-    background:url('../img/ADLINK-logo.png') no-repeat;
+    background:url('../img/ADLINK_Logo.png') no-repeat;
     display:block;
-    height:73px;
+    height:77px;
     margin-left: 5px;
     margin-top: 40px;
     text-indent:-9999px;
